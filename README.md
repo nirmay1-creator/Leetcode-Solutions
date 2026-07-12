@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+## String
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
