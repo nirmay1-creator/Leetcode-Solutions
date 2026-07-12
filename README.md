@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
