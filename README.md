@@ -38,9 +38,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
