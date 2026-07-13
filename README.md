@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
