@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Linked List
 |  |
