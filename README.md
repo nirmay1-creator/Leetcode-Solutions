@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
