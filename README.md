@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
