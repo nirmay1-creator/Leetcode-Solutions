@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
+| [0075-sort-colors](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0120-triangle) |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
