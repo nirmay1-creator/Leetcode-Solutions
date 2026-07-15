@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -105,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
