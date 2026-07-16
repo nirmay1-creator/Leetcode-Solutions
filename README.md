@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
