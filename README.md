@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 ## Binary Search Tree
 |  |
