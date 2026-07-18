@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0147-insertion-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
