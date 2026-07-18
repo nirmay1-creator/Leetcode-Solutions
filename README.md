@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Database
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Simulation
 |  |
 | ------- |
@@ -182,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
