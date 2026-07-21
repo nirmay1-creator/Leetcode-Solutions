@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
+| [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -204,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
