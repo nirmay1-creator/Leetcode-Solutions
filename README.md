@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
