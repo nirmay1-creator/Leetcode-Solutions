@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0284-peeking-iterator](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0284-peeking-iterator](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 ## Queue
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
