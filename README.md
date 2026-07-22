@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 ## Divide and Conquer
 |  |
 | ------- |
