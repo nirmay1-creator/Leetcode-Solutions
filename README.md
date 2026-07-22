@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 ## Divide and Conquer
