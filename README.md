@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -249,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
