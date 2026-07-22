@@ -13,31 +13,31 @@ public:
 
         for(int i = index; i < num.size(); i++) {
 
-            // Leading zero case
+         
             if(i > index && num[index] == '0')
                 break;
 
             string part = num.substr(index, i - index + 1);
             long long curr = stoll(part);
 
-            // First number
+            
             if(index == 0) {
                 dfs(num, target, i + 1, curr, curr, part);
             }
             else {
-                // Addition
+                
                 dfs(num, target, i + 1,
                     value + curr,
                     curr,
                     expr + "+" + part);
 
-                // Subtraction
+               
                 dfs(num, target, i + 1,
                     value - curr,
                     -curr,
                     expr + "-" + part);
 
-                // Multiplication
+         
                 dfs(num, target, i + 1,
                     value - prev + prev * curr,
                     prev * curr,
