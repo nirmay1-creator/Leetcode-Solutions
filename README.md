@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
