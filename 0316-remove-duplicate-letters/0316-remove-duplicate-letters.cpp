@@ -4,7 +4,7 @@ public:
         
         vector<int> last(26);
 
-        // Store last occurrence
+     
         for(int i = 0; i < s.length(); i++) {
             last[s[i] - 'a'] = i;
         }
@@ -16,11 +16,11 @@ public:
 
             char ch = s[i];
 
-            // Already included
+        
             if(visited[ch - 'a'])
                 continue;
 
-            // Remove bigger characters if they appear later
+       
             while(!ans.empty() && 
                   ans.back() > ch && 
                   last[ans.back() - 'a'] > i) {
