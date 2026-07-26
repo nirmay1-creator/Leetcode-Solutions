@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0312-burst-balloons](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0284-peeking-iterator](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0312-burst-balloons](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
 ## Bit Manipulation
