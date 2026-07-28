@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
+| [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
