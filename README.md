@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0044-wildcard-matching) |
+| [0071-simplify-path](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0091-decode-ways) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
