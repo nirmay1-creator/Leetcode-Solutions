@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
+| [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
