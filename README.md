@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0332-reconstruct-itinerary](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
