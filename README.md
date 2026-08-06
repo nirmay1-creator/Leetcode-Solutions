@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0332-reconstruct-itinerary](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 ## Divide and Conquer
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
+| [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -364,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
