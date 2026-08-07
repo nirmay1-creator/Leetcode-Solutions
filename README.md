@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0212-word-search-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
