@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 ## Divide and Conquer
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
+| [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
@@ -377,4 +379,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
