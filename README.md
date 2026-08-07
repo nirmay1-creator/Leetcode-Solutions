@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
+| [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
+| [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 ## Array
 |  |
 | ------- |
