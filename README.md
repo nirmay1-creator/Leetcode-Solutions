@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0332-reconstruct-itinerary](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 ## Simulation
 |  |
 | ------- |
