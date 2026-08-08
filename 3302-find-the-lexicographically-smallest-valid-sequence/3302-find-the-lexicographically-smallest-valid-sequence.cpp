@@ -7,8 +7,6 @@ public:
         if (m > n) return {};
 
         vector<int> pre(m, -1), suf(m, -1), sufOne(m, -1);
-
-        // Exact prefix matching
         int p = 0;
         for (int j = 0; j < m; j++) {
             while (p < n && word1[p] != word2[j])
@@ -16,10 +14,7 @@ public:
 
             if (p == n) break;
 
-            pre[j] = p++;
-        }
-
-        // Exact suffix matching
+            pre[j] = p++; }
         p = n - 1;
         for (int j = m - 1; j >= 0; j--) {
             while (p >= 0 && word1[p] != word2[j])
@@ -29,8 +24,6 @@ public:
 
             suf[j] = p--;
         }
-
-        // Suffix matching with at most one different character
         p = n - 1;
 
         for (int j = m - 1; j >= 0; j--) {
@@ -41,7 +34,6 @@ public:
                     break;
                 }
 
-                // Use the one allowed mismatch
                 if (j == 0 || (pre[j - 1] != -1 && pre[j - 1] < p)) {
                     sufOne[j] = p--;
                     break;
@@ -60,7 +52,7 @@ public:
 
             while (p < n) {
 
-                // Take exact match
+          
                 if (word1[p] == word2[j]) {
 
                     if (j == m - 1 || 
