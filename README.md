@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0313-super-ugly-number) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0458-poor-pigs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0458-poor-pigs) |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -395,4 +399,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
