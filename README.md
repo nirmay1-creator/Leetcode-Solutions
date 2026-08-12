@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0398-random-pick-index](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Merge Sort
 |  |
 | ------- |
