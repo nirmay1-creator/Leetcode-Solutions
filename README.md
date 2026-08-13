@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0336-palindrome-pairs) |
 | [0409-longest-palindrome](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [1140-stone-game-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
@@ -312,10 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Trie
 |  |
 | ------- |
