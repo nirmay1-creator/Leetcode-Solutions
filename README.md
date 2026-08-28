@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0321-create-maximum-number) |
 | [0466-count-the-repetitions](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/0466-count-the-repetitions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -446,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nirmay1-creator/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
